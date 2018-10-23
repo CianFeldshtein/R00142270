@@ -24,3 +24,12 @@ p {
     margin-right: auto;
     width: 25%;
 }
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   color: navy;
+   text-align: center;
+}
